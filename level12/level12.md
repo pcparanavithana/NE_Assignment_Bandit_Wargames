@@ -1,0 +1,11 @@
+bandit1@melinda:~$ ls
+
+-
+
+bandit1@melinda:~$ cat ./-
+
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
+bandit1@melinda:~$ exit
+
+logout
